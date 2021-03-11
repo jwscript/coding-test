@@ -1,3 +1,7 @@
+/**
+ * 카카오 2019 - 오픈채팅방
+ * https://programmers.co.kr/learn/courses/30/lessons/42888?language=java
+ */
 package kakao;
 
 import java.util.HashMap;
